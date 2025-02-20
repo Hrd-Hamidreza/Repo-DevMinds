@@ -1,4 +1,18 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
 h1 {
     color: red;
     font-size: 2rem;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
 }
